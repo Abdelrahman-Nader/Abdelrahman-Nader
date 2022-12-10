@@ -5,9 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-// ng g application <name> to run new application like user / admin / website
-// ng s --project=users or website or admin => to run the spcific app
-//
+// ng new work --creat-appliction=false ==>> to run work space not app
+// ng g application <name> ==>> to run new application like user / admin / website
+// ng s --project=users or website or admin ==>> to run the specific app
+// ng g component name --project=name of app ==>> to create component in specific app
 
 ## Code scaffolding
 
